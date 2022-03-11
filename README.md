@@ -1,2 +1,2 @@
 # infra-security
-A public index for information relating to protection of critical infrastructure
+A public bibliography for information relating to attack surface analysis and protection of critical infrastructure
